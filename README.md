@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+"Hi, I'm Aman Gupta, a passionate data science enthusiast exploring the world of ML, DL, and AI-driven solutions."
 - 🔭 I’m currently working on **Data Science Projects,Machine Learning and Deep Learning**.
 - 🌱 I’m currently learning **Model Deployment,and Big Data Technologies**.
 - 👯 I’m looking to collaborate on **Data-driven applications,ML/DL projects**.
