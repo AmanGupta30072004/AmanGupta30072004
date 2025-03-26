@@ -27,14 +27,13 @@
   <img src="https://github.com/AmanGupta30072004/AmanGupta30072004/blob/main/microsoft-excel-seeklogo.png?raw=true" height="50" alt="MS Excel"/>
 </p>
 
-
-
+https://drive.google.com/file/d/1hC4ErdMohpvSpSyx6bcjrvbqNx3liwsZ/view?usp=drivesdk
 
 ---
 
 ## 📄 Resume:  
 <p align="center">  
-  <a href="https://drive.google.com/file/d/1vMlMvrwO1p0DTErNIROOm32VRRyLfIj0/view">  
+  <a href="https://drive.google.com/file/d/1hC4ErdMohpvSpSyx6bcjrvbqNx3liwsZ/view?usp=drivesdk"> 
     <img src="https://img.shields.io/badge/View My Resume-00ADD8?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Link" />  
   </a>  
 </p>  
